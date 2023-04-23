@@ -1,23 +1,17 @@
----
-title: My Projects Summary
-output:
-    html_document:
-        number_sections: true
----
-
 # My Projects Summary
 
-> 1. [Akiry Play]()
-> 1. []()
-> 1. []()
-> 1. []()
-> 1. []()
-> 1. [Fluency]()
-> 1. [Hypercodelabs]()
-> 1. [Pirahã Dict]()
-> 1. [PeopleBus]()
-> 1. [ICompTV]()
-> 1. [Bookzone]()
+> 1. [Energia Certa](#energia-certa)
+> 1. [ARSIM](#arsim)
+> 1. [Akiry Play](#akiry-play)
+> 1. [AmazonSat](#amazonsat)
+> 1. [ORTVI](#ortvi)
+> 1. [TV UFAM Play](#tv-ufam-play)
+> 1. [ICompTV](#icomp-tv)
+> 1. [Fluency](#fluency)
+> 1. [Hypercodelabs](#hypercodelabs)
+> 1. [Pirahã Dict](#pirahã-dict)
+> 1. [PeopleBus](#peoplebus)
+> 1. [Bookzone](#bookzone)
 
 ---
 
