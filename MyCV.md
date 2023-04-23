@@ -59,7 +59,7 @@ Eneergia Group is the holder of See Energy, a promising platform of energy intel
 - **Skills:** _Angular, NodeJS, ExpressJS, Python, Flask, Postgres, MongoDB, Docker, GCP._
 
 ## :school: Manpower Training Program by SAMSUNG-UFAM Partnership, Manaus, Brazil
-**OCTOBER 2014 - MAY 2016** • _Scholarship in Software Development (presential)_
+**OCTOBER 2014 - MAY 2016** • _Scholarship in Software Development (on-site)_
 
 Contributed to PeopleBus, a collaborative project focused on urban public transport.
 - Developed the Android app of ICompTV, a video streaming platform for professors to publish and share their lessons. - It was the basis for creation of Akiry startup.
@@ -83,7 +83,7 @@ Academic monitory. [60 hours - Voluntary]
 
 _Municipal School Prof. João Bento da Costa, Porto Velho, Brazil_
 
-**2009-2011** _(presential)_
+**2009-2011** _(on-site)_
 
 # SKILL
 - :gem::gem::gem::gem::gem: Angular (7 years)
