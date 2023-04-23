@@ -19,7 +19,7 @@ My name is António Cruz Júnior, also known as Juninho Cruz. Welcome to my Gith
 
 ---
 
-## Access my [Repositories Summary](https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md)
+## Access my [Repositories Summary](./MyRepositoriesSummary.md)
 
 I'm continually organising a summary for my repositories [here](https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md) to make easier to access all my public projects, on different git servers. Please feel free to visit it.
 
