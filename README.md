@@ -31,6 +31,18 @@ I'm continually organising a summary for my repositories [here](./MyRepositories
 
 ---
 
+## Access my [CV](./MyCV.md)
+
+There is a Markdown version of my CV [here](./MyCV.md).
+
+<p align="center">
+  <a href="./MyCV.md">
+    <img alt="My CV" src="https://img.shields.io/github/stars/juninhocruzg3/juninhocruzg3?label=My%20CV&style=social">
+  </a>
+</p>
+
+---
+
 ## About me
 
 - :mortar_board: Computer Engineering by the Federal University of Amazonas, Brazil
