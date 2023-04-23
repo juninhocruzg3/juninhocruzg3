@@ -21,10 +21,10 @@ My name is António Cruz Júnior, also known as Juninho Cruz. Welcome to my Gith
 
 ## Access my [Repositories Summary](./MyRepositoriesSummary.md)
 
-I'm continually organising a summary for my repositories [here](https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md) to make easier to access all my public projects, on different git servers. Please feel free to visit it.
+I'm continually organising a summary for my repositories [here](./MyRepositoriesSummary.md) to make easier to access all my public projects, on different git servers. Please feel free to visit it.
 
 <p align="center">
-  <a href="https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md">
+  <a href="./MyRepositoriesSummary.md">
     <img alt="My Repositories Summary on Github" src="https://img.shields.io/github/stars/juninhocruzg3/juninhocruzg3?label=My%20Repositories%20Summary&style=social">
   </a>
 </p>
@@ -65,7 +65,7 @@ I'm continually organising a summary for my repositories [here](https://github.c
 
 <p align="center">
   <a href="https://open.spotify.com/track/5gHIAhc20bnRTiFCdITkWd?si=d5abbc51f2b24de9">
-    <img alt="Listen to me on Spotify" src="https://github.com/juninhocruzg3/juninhocruzg3/blob/master/img/spotify-singer.svg">
+    <img alt="Listen to me on Spotify" src="./img/spotify-singer.svg">
   </a>
 
 ---
