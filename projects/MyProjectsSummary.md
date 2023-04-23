@@ -14,6 +14,7 @@
 > 1. [Pirahã Dict](#pirahã-dict)
 > 1. [PeopleBus](#peoplebus)
 > 1. [Bookzone](#bookzone)
+> 1. [Game Of The Towers](#game-of-the-towers)
 
 ---
 
@@ -40,3 +41,9 @@
 # PeopleBus
 
 # Bookzone
+
+Bookzone is a platform for managing personal libraries, buying, selling and exchanging books.
+
+Click [here](./bookzone/bookzone.md) to more info.
+
+# Game Of The Towers
