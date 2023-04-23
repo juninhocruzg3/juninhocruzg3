@@ -1,7 +1,8 @@
-<h1><strong>
+<h1 align="center"><strong>
     António César Vieira da Cruz Júnior
 </strong></h1>
-Brazilian :br: Married :ring: 28 years old :birthday:
+
+:brazil: Brazilian :ring: Married :birthday: 28 years old
 
 :house_with_garden: Vila Velha, ES, Brazil
 
@@ -22,7 +23,7 @@ Brazilian :br: Married :ring: 28 years old :birthday:
 # PROFESSIONAL EXPERIENCE
 
 
-## Akiry Media,  Manaus, Brazil
+## :rocket: Akiry Media,  Manaus, Brazil
 
 **JUNE 2016 - PRESENT** • _Co-founder • Senior Full-Stack Software Engineer (remote)_
 
@@ -34,7 +35,7 @@ Startup that has developed its own technology for streaming and recommendation o
 - Serving also as an administrator for the startup since 2020.
 - **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
 
-## FAEPI Super Project (Samsung - UFAM),  Manaus, Brazil
+## :school: FAEPI Super Project (Samsung - UFAM),  Manaus, Brazil
 **OCTOBER 2020 - PRESENT** • _Senior Frontend Software Engineer (part-time remote)_
 
 Super is a partnership between the Federal University of Amazonas (UFAM) and Samsung that focuses on promoting training and research in tech areas at UFAM.
@@ -44,7 +45,7 @@ Super is a partnership between the Federal University of Amazonas (UFAM) and Sam
 - Mentored 3 scholarship students within the project, who were hired in 2021 for intermediate positions by large research companies in Amazonas, confirming the success of the project's objectives.
 - **Skills:** _Angular, TypeScript, NodeJS, Docker, GCP, SCRUM._
 
-## Eneergia Group,  Manaus, Brazil
+## :rocket: Eneergia Group,  Manaus, Brazil
 **JUNE 2020 - DECEMBER 2021** • _Senior Full-Stack Software Engineer (remote)_
 
 Eneergia Group is the holder of See Energy, a promising platform of energy intelligence and efficiency consumption analysis.
@@ -55,7 +56,7 @@ Eneergia Group is the holder of See Energy, a promising platform of energy intel
 - Contributed to the modeling of the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption.
 - **Skills:** _Angular, NodeJS, ExpressJS, Python, Flask, Postgres, MongoDB, Docker, GCP._
 
-## Manpower Training Program by SAMSUNG-UFAM Partnership, Manaus, Brazil
+## :school: Manpower Training Program by SAMSUNG-UFAM Partnership, Manaus, Brazil
 **OCTOBER 2014 - MAY 2016** • _Scholarship in Software Development (presential)_
 
 Contributed to PeopleBus, a collaborative project focused on urban public transport.
@@ -64,9 +65,10 @@ Contributed to PeopleBus, a collaborative project focused on urban public transp
 
 # EDUCATION
 
-## Federal University of Amazonas, Manaus, Brazil
+## :mortar_board: Bachelor of Computer Engineering
 
-### :mortar_board: Bachelor of Computer Engineering
+_Federal University of Amazonas, Manaus, Brazil_
+
 **2012 - 2018** _(on-site)_
 
 Achievements: 
@@ -75,27 +77,38 @@ Academic monitory. [60 hours - Voluntary]
 - Lecturer on the “Energy Theft Awareness Extension Project”. [60 hours - Voluntary]
 - Android Exoplayer Evangelist as a Volunteer Teacher. [2016/2017 - Voluntary]
 
-## Municipal School Prof. João Bento da Costa, Porto Velho, Brazil
-### High School
+## :mortar_board: High School
+
+_Municipal School Prof. João Bento da Costa, Porto Velho, Brazil_
+
 **2009-2011** _(presential)_
 
 # SKILL
-
+- :gem::gem::gem::gem::gem: Angular (7 years)
+- :gem::gem::gem::gem::gem: NodeJS (7 years)
+- :gem::gem::gem::gem::gem: TypeScript/JavaScript (7 years)
+- :gem::gem::gem::gem::gem: HTML & CSS/SASS (7 years)
+- :gem::gem::gem::gem::gem: Linux (12 years)
+- :gem::gem::gem::gem::gem: ExpressJS/Restify (6 years)
+- :gem::gem::gem::gem::gem: Docker (5 years)
+- :gem::gem::gem::gem: Postgres & SQL (5 years)
+- :gem::gem::gem::gem: MongoDB & NoSQL (6 years)
+- :gem::gem::gem::gem: Google Cloud Platform (3 years)
+- :gem::gem::gem: Amazon Web Services (3 years)
+- :gem::gem::gem: Java (3 years)
+- :gem::gem::gem: Android (3 years)
+- :gem::gem: React (1 years)
+- :gem::gem: NestJS (1 years)
+- :gem::gem: Python (2 years)
+- :gem: Flutter (1 years)
+- :gem: Oracle Cloud Infra (1 years)
 
 # LANGUAGE
-Native Portuguese
-⬛ ⬛ ⬛ ⬛ ⬛
-Professional English
-⬛ ⬛ ⬛ ⬛ ⬛
-Professional Spanish
-⬛ ⬛ ⬛ ⬛ ⬛
-
-
-Elementary Galician
-⬛ ⬛ ⬛ ⬛ ⬛
-Basic Japanese
-⬛ ⬛ ⬛ ⬛ ⬛
-
+- :gem::gem::gem::gem::gem: Native Portuguese
+- :gem::gem::gem: Professional English
+- :gem::gem::gem: Professional Spanish
+- :gem::gem: Elementary Galician
+- :gem: Basic Japanese
 
 ---
 
