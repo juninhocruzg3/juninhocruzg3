@@ -19,13 +19,13 @@ My name is António Cruz Júnior, also known as Juninho Cruz. Welcome to my Gith
 
 ---
 
-## Access my [Repositories Summary](https://github.com/juninhocruzg3/MyRepositoriesSummary/blob/master/README.md)
+## Access my [Repositories Summary](https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md)
 
-I'm continually organising a summary for my repositories [here](https://github.com/juninhocruzg3/MyRepositoriesSummary/blob/master/README.md) to make easier to access all my public projects, on different git servers. Please feel free to visit it.
+I'm continually organising a summary for my repositories [here](https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md) to make easier to access all my public projects, on different git servers. Please feel free to visit it.
 
 <p align="center">
-  <a href="https://github.com/juninhocruzg3/MyRepositoriesSummary">
-    <img alt="My Repositories Summary Repo on Github" src="https://img.shields.io/github/stars/juninhocruzg3/MyRepositoriesSummary?label=My%20Repositories%20Summary&style=social">
+  <a href="https://github.com/juninhocruzg3/juninhocruzg3/blob/master/MyRepositoriesSummary.md">
+    <img alt="My Repositories Summary on Github" src="https://img.shields.io/github/stars/juninhocruzg3/juninhocruzg3?label=My%20Repositories%20Summary&style=social">
   </a>
 </p>
 
