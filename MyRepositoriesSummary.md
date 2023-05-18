@@ -2,7 +2,7 @@
 
 # My Repositories Summary
 
-This repository serves as a summary of all my Git repositories from various Git servers.
+This repository serves as a summary of all my Git repositories from various Git servers. I'm listing all the repositories here bit by bit. Many are not yet listed, but will be soon.
 
 Here's a brief overview of each repository:
 
