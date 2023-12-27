@@ -4,9 +4,9 @@
     António César Vieira da Cruz Júnior
 </strong></h1>
 
-:brazil: Brazilian :ring: Married :birthday: 28 years old
+:brazil: Brazilian :ring: Married :birthday: 29 years old
 
-:house_with_garden: Vila Velha, ES, Brazil
+:house_with_garden: Lisbon, Portugal
 
 <p align="center">
     <a href="https://linkedin.com/in/acruzjr">
@@ -17,25 +17,12 @@
 ---
 
 <p align="justify"><i>
-    Experienced computer engineer with 7 years of expertise in full-stack development, specializing in Angular and NodeJS. Co-founder and Senior Developer of Akiry, a Brazilian multimedia streaming startup, with skills in building and scaling software solutions, managing teams, and collaborating with stakeholders. Manage frontend development of Super mentoring scholarship students in Angular development. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching. Seeking an international opportunity to expand skills beyond Brazil._
+    Experienced computer engineer with 7 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, managing teams, and collaborating with stakeholders. Manage frontend development of Super mentoring scholarship students in Angular development. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching. Seeking an international opportunity to expand skills beyond Brazil._
 </i></p>
 
 ---
 
 # PROFESSIONAL EXPERIENCE
-
-
-## :rocket: Akiry Media,  Manaus, Brazil
-
-**JUNE 2016 - PRESENT** • _Co-founder • Senior Full-Stack Software Engineer (remote)_
-
-Startup that has developed its own technology for streaming and recommendation of multimedia content.
-
-- Contributed to the development and maintenance of the white-label multimedia streaming platform Akiry Play, utilizing libraries such as ExoPlayer (Android app) and Angular, VideoJS, Shaka Player (Web).
-- Became as development team leader in 2017, leading both frontend and backend.
-- Introduced Docker, modularized architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
-- Serving also as an administrator for the startup since 2020.
-- **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
 
 ## :school: FAEPI Super Project (Samsung - UFAM),  Manaus, Brazil
 **OCTOBER 2020 - PRESENT** • _Senior Frontend Software Engineer (part-time remote)_
@@ -46,6 +33,18 @@ Super is a partnership between the Federal University of Amazonas (UFAM) and Sam
 - Led the development of the frontend of a System for Certificate Emission for project secretaries.
 - Mentored 3 scholarship students within the project, who were hired in 2021 for intermediate positions by large research companies in Amazonas, confirming the success of the project's objectives.
 - **Skills:** _Angular, TypeScript, NodeJS, Docker, GCP, SCRUM._
+
+## :rocket: Akiry Media,  Manaus, Brazil
+
+**JUNE 2016 - NOVEMBER 2023** • _Co-founder • Senior Full-Stack Software Engineer (remote)_
+
+Startup that has developed its own technology for streaming and recommendation of multimedia content.
+
+- Contributed to the development and maintenance of the white-label multimedia streaming platform Akiry Play, utilizing libraries such as ExoPlayer (Android app) and Angular, VideoJS, Shaka Player (Web).
+- Became as development team leader in 2017, leading both frontend and backend.
+- Introduced Docker, modularized architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
+- Serving also as an administrator for the startup since 2020.
+- **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
 
 ## :rocket: Eneergia Group,  Manaus, Brazil
 **JUNE 2020 - DECEMBER 2021** • _Senior Full-Stack Software Engineer (remote)_
