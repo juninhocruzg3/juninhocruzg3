@@ -1,12 +1,12 @@
 [<- Back to JuninhoCruzG3 profile](./README.md)
 
 <h1 align="center"><strong>
-    António César Vieira da Cruz Júnior
+    António Cruz Júnior
 </strong></h1>
 
 :brazil: Brazilian :ring: Married :birthday: 29 years old
 
-:house_with_garden: Lisbon, Portugal
+:house_with_garden: Almada, Portugal :portugal:
 
 <p align="center">
     <a href="https://linkedin.com/in/acruzjr">
@@ -17,12 +17,19 @@
 ---
 
 <p align="justify"><i>
-    Experienced computer engineer with 7 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, managing teams, and collaborating with stakeholders. Manage frontend development of Super mentoring scholarship students in Angular development. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching. Seeking an international opportunity to expand skills beyond Brazil._
+    Experienced computer engineer with 8 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, managing teams, and collaborating with stakeholders. Senior Consultant at Aubay Portugal, became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Manage frontend development of UFAM/Samsumg Super project, with responsibility of mentoring scholarship students in Angular development. Co-founder of Akiry Media (2016 - 2023), a Brazilian startup focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching._
 </i></p>
 
 ---
 
 # PROFESSIONAL EXPERIENCE
+
+## :car: Aubay Portugal (Critical Techworks - BMW Group), Lisbon, Portugal
+**January 2024 - PRESENT** • _Senior Consultant • Rockstar Developer (hybrid)_
+
+Aubay is a Consulting, Nearshore, and Outsourcing company with more than 7500 employees (1450 in Portugal) and 19 offices in 7 different European countries.
+- Became a Rockstar Developer at Critical Techworks, a company formed due to a partnership between BMW Group and Critical Group, focused exclusively on supporting BMW in developing software for its future driving machines and IT ecosystem.
+- **Skills:** _*#*#*#*#*#*#*#*#*#*#*#*#*#*#*._
 
 ## :school: FAEPI Super Project (Samsung - UFAM),  Manaus, Brazil
 **OCTOBER 2020 - PRESENT** • _Senior Frontend Software Engineer (part-time remote)_
