@@ -45,19 +45,19 @@ There is a Markdown version of my CV [here](./MyCV.md).
 
 ## About me
 
-- :mortar_board: Computer Engineering by the Federal University of Amazonas, Brazil
+- :mortar_board: Computer Engineering by the Federal University of Amazonas, Brazil :brazil:
 
-- :briefcase: Software Engineer with 7 years of experience
+- :briefcase: Software Engineer with 8 years of experience
 
-- :rocket: Co-founder and Software Engineer at [Akiry Media](https://akirymedia.com).
+- :rocket: Senior Consultant at [Aubay Portugal](https://aubay.pt/) and :guitar: Rockstar Developer at [Critical TechWorks](https://www.criticaltechworks.com/).
 
-- :computer: Senior Front-End Engineer at [FAEPI Super Project](https://super.ufam.edu.br)
+- :computer: Mentor in Software Development at [FAEPI/UFAM/SAMSUNG Super Project](https://super.ufam.edu.br)
 
 <!-- - :tv: I like to talk about Software Development in the Youtube Channel [TG15 Academy](https://www.youtube.com/@tg15academy) -->
 
 - :microphone: I have a published song on my [Youtube](https://www.youtube.com/@juninhocruz) and [Spotify](https://open.spotify.com/artist/629eOeZrqkqRkZ9puBNuGw?si=VZLfXdxbQ6yPQFxXc7iFDw) profiles.
 
-- :house_with_garden: I'm a digital nomad, currently living in Vila Velha, ES, Brazil.
+- :house_with_garden: Currently living in Almada, Portugal :portugal:.
 
 - :thumbsup: I like music :musical_score:, chess :european_castle:, soccer :soccer: and counter-strike :video_game:
 
