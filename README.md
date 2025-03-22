@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi everyone :wave:
 
-My name is António Cruz Júnior, also known as Juninho Cruz. Welcome to my Github profile home.
+My name is António Cruz Júnior, also known as Juninho Cruz. Welcome to my Github profile's home.
 
 ---
 
@@ -47,11 +47,9 @@ There is a Markdown version of my CV [here](./MyCV.md).
 
 - :mortar_board: Computer Engineering by the Federal University of Amazonas, Brazil :brazil:
 
-- :briefcase: Software Engineer with 8 years of experience
+- :briefcase: Software Engineer with 9 years of experience
 
-- :rocket: Senior Consultant at [Aubay Portugal](https://aubay.pt/) and :guitar: Rockstar Developer at [Critical TechWorks](https://www.criticaltechworks.com/).
-
-- :computer: Mentor in Software Development at [FAEPI/UFAM/SAMSUNG Super Project](https://super.ufam.edu.br)
+- :rocket: Computer Engineer and :guitar: Rockstar Developer at [Critical TechWorks](https://www.criticaltechworks.com/).
 
 <!-- - :tv: I like to talk about Software Development in the Youtube Channel [TG15 Academy](https://www.youtube.com/@tg15academy) -->
 
