@@ -17,7 +17,7 @@
 ---
 
 <p align="justify"><i>
-    Experienced computer engineer with 9 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Senior Software Engineer, became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching.
+    Experienced computer engineer with 9 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching.
 </i></p>
 
 ---
@@ -52,7 +52,7 @@ Startup that has developed its own technology for streaming and recommendation o
 
 - Contributed to the development and maintenance of the white-label multimedia streaming platform Akiry Play, utilizing libraries such as ExoPlayer (Android app) and Angular, VideoJS, Shaka Player (Web).
 - Became as development team leader in 2017, leading both frontend and backend.
-- Introduced Docker, modularized architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
+- Introduced Docker, modular architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
 - Serving also as an administrator for the startup since 2020.
 - **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
 
@@ -63,7 +63,7 @@ Eneergia Group is the holder of See Energy, a promising platform of energy intel
 - Single-handedly Designed, developed, and deployed the MVP of See Energy in 2020, covering all aspects from modeling to architecture and implementation.
 - Maintained and developed new features for See Energy in 2021.
 - Created dynamic tables and forms for easy creation of dashboard pages.
-- Spearheaded modularized architecture for code isolation and microservices for scalability and flexibility.
+- Spearheaded modular architecture for code isolation and microservices for scalability and flexibility.
 - Contributed to the modeling of the Energy Use Performance Requirements-Based Metric to rank companies' energy consumption.
 - **Skills:** _Angular, NodeJS, ExpressJS, Python, Flask, Postgres, MongoDB, Docker, GCP._
 
