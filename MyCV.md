@@ -87,11 +87,6 @@ Achievements:
 - Lecturer on the “Energy Theft Awareness Extension Project”. [60 hours - Voluntary]
 - Android Exoplayer Evangelist as a Volunteer Teacher. [2016/2017 - Voluntary]
 
-## :mortar_board: High School
-_Municipal School Prof. João Bento da Costa, Porto Velho, Brazil_
-
-**2009-2011** _(on-site)_
-
 # Licenses & Cerfitications
 
 ## :scroll: LeSS - Large Scale Scrum: Practitioner Certification
