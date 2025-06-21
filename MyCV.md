@@ -94,61 +94,61 @@ _Municipal School Prof. João Bento da Costa, Porto Velho, Brazil_
 
 # Licenses & Cerfitications
 
-## LeSS - Large Scale Scrum: Practitioner Certification
+## :scroll: LeSS - Large Scale Scrum: Practitioner Certification
 _Amelior Services, Neuilly-sur-Seine, France_
 
 **Issued in Lisbon (on-site), October 2024** • 2 yrs valid
 
 ![image](https://github.com/user-attachments/assets/b538be79-9955-4d7f-a041-b4a04b6d68e4)
 
-## Developing Serveles Solutions on AWS
-_AWS Training and Certifications, Online
+## :scroll: Developing Serveles Solutions on AWS
+_AWS Training and Certifications, Online_
 
 **Issued April 2025**
 
 [![image](https://github.com/user-attachments/assets/94349018-ec1e-481d-b486-876a67045b62)](https://www.linkedin.com/in/acruzjr/details/certifications/1744970848199/single-media-viewer/?profileId=ACoAAAtXuawBYEdQD4AKtJpmdiDzamfdONpj4Jc)
 
-## Advanced Developing on AWS
-_AWS Training and Certifications, Online
+## :scroll: Advanced Developing on AWS
+_AWS Training and Certifications, Online_
 
 **Issued August 2024**
 
 [![image](https://github.com/user-attachments/assets/2a733dd8-2a5b-4755-a305-ca2e02e342d4)](https://www.linkedin.com/in/acruzjr/details/certifications/1744971481700/single-media-viewer/?profileId=ACoAAAtXuawBYEdQD4AKtJpmdiDzamfdONpj4Jc)
 
-## Developing on AWS
-_AWS Training and Certifications, Online
+## :scroll: Developing on AWS
+_AWS Training and Certifications, Online_
 
 **Issued July 2024**
 
 [![image](https://github.com/user-attachments/assets/a14205bc-242f-467f-8a7f-47ae6578ca56)](https://www.linkedin.com/in/acruzjr/details/certifications/1744971321278/single-media-viewer/?profileId=ACoAAAtXuawBYEdQD4AKtJpmdiDzamfdONpj4Jc)
 
-## Neo4j Fundamentals
-_Neo4J GraphAcademy, Online
+## :scroll: Neo4j Fundamentals
+_Neo4J GraphAcademy, Online_
 
 **Issued October 2024**
 
 [Certificate link](https://graphacademy.neo4j.com/c/49f3bbe2-bc17-4b25-8428-4b6e87ecf728/)
 
-## Flutter Essential Training: Build for Multiple Platforms
-_LinkedIn Learning, Online
+## :scroll: Flutter Essential Training: Build for Multiple Platforms
+_LinkedIn Learning, Online_
 
 **Issued July 2024**
 
-## Angular Assessment
-_Coodesh, Online
+## :scroll: Angular Assessment
+_Coodesh, Online_
 
 **Issued April 2023**
 
 [Certificate link](https://coodesh.com/share/certificate/9021ce60-d35c-11ed-9234-6360ad280e2c)
 
-## JavaScript Assessment
-_Coodesh, Online
+## :scroll: JavaScript Assessment
+_Coodesh, Online_
 
 **Issued April 2023**
 
 [Certificate link](https://coodesh.com/share/certificate/58bd9ac0-dbc3-11ed-9234-b9f3a16b8af8)
 
-## Class AB Commercial Driver License
+## :identification_card: Class AB Commercial Driver License
 _DETRAN, Vila Velha, Brazil_
 
 **Issued July 2023** • Expires July 2034
