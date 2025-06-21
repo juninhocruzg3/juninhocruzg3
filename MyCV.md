@@ -51,7 +51,7 @@ Super is a partnership between the Federal University of Amazonas (UFAM) and Sam
 Startup that has developed its own technology for streaming and recommendation of multimedia content.
 
 - Contributed to the development and maintenance of the white-label multimedia streaming platform Akiry Play, utilizing libraries such as ExoPlayer (Android app) and Angular, VideoJS, Shaka Player (Web).
-- Became as development team leader in 2017, leading both frontend and backend.
+- Became development team leader in 2017, leading both frontend and backend.
 - Introduced Docker, modular architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
 - Serving also as an administrator for the startup since 2020.
 - **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
