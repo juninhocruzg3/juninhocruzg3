@@ -31,7 +31,7 @@ Critical TechWorks (CTW) is a company formed due to a partnership between BMW Gr
 - Engineering full-stack solutions in the [online sales](https://www.linkedin.com/pulse/transforming-how-we-buy-cars-criticaltechworks-1ofzf/?trackingId=EVL8HUZvTgORXpPtzhZ0Bw%3D%3D) and [offer lifecycle ecosystem](https://www.linkedin.com/posts/criticaltechworks_joyinmotion-agile-software-activity-7341495026272628737-l261?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtXuawBYEdQD4AKtJpmdiDzamfdONpj4Jc), with a focus on frontend development - collaborating in backlog refinement, implementing, testing with automated tools and deploying to production.
 - Applying and enabling adoption of Domain-Driven Design and layered architectures (Clean, Hexagonal, etc.) to separate concerns, distill business complexity and bring the software design closer to real-world business.
 - Promoting better practices in project modelling, communication, and documentation by applying DDD principles - fostering shared language, collaborative design and lightweight, meaningful documentation that reflects domain knowledge and supports both technical and business perspectives. 
-- From January 2024 to February 2025, worked at CTW as a senior consultant through Aubay, a Consulting, Nearshore, and Outsourcing company with more than 7500 employees (1450 in Portugal) and 19 offices in 7 different European countries.
+- Worked at CTW as a senior consultant through Aubay until February 2025. Aubay is a Consulting, Nearshore, and Outsourcing company with more than 7500 employees (1450 in Portugal) and 19 offices in 7 different European countries.
 - **Skills:** _Angular, TypeScript, Quarkus, Kotlin, Java, Docker, AWS, DynamoDB, SCRUM, LeSS, Domain-Driven Design._
 
 ## :school: FAEPI Super Project (Samsung - UFAM),  Manaus, Brazil
@@ -53,7 +53,7 @@ Startup that has developed its own technology for streaming and recommendation o
 - Contributed to the development and maintenance of the white-label multimedia streaming platform Akiry Play, utilizing libraries such as ExoPlayer (Android app) and Angular, VideoJS, Shaka Player (Web).
 - Became development team leader in 2017, leading both frontend and backend.
 - Introduced Docker, modular architecture with generic models and microservices, achieving increased code reusability and reducing errors arising from incompatibilities among developers' machines.
-- Serving also as an administrator for the startup since 2020.
+- served also as an administrator for the startup since 2020.
 - **Skills:** _Angular, TypeScript, NodeJS, ExpressJS/Restify, Docker, Postgres, MongoDB, Python, GCP, AWS, NestJS, Android, KANBAN, GIT, VideoJS, ShakaPlayer._
 
 ## :rocket: Eneergia Group,  Manaus, Brazil
