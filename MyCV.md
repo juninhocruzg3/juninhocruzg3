@@ -17,7 +17,7 @@
 ---
 
 <p align="justify"><i>
-    Experienced computer engineer with 9 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Senior Software Engineer, became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching._
+    Experienced computer engineer with 9 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Senior Software Engineer, became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching.
 </i></p>
 
 ---
@@ -83,7 +83,7 @@ _Federal University of Amazonas, Manaus, Brazil_
 
 Achievements: 
 - Scientific Initiation Program. [180 hours - Scholarship]
-Academic monitory. [60 hours - Voluntary]
+- Academic monitory. [60 hours - Voluntary]
 - Lecturer on the “Energy Theft Awareness Extension Project”. [60 hours - Voluntary]
 - Android Exoplayer Evangelist as a Volunteer Teacher. [2016/2017 - Voluntary]
 
