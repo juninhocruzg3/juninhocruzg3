@@ -17,7 +17,7 @@
 ---
 
 <p align="justify"><i>
-    Experienced computer engineer with 9 years of expertise in full-stack development, specializing in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Became a Rockstar Developer at Critical Techworks colaborating to the software development for BMW Group since January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching.
+    Computer engineer with 9 years of expertise in full-stack development, specialized in Angular and NodeJS, with experience in building and scaling software solutions, enabling teams, and collaborating with stakeholders. Became a Rockstar Developer at Critical Techworks (BMW Group) in January 2024. Co-founder of Akiry Media, a Brazilian startup that operated from 2016 to 2023 focused on provide multimedia streaming technology to content creators. Built from scratch the MVP of See Energy, a promising platform of energy intelligence in Brazil, and contributed to the Requirements-Based Energy Use Performance Metric to rank the energy consumption of Brazilian companies. Proactive, driven by the challenge of transforming domain complexity into maintainable, meaningful software through collaboration. Continuously learning and staying up-to-date with the latest development technologies, passionate about sharing knowledge and teaching.
 </i></p>
 
 ---
@@ -41,7 +41,7 @@ Super is a partnership between the Federal University of Amazonas (UFAM) and Sam
 - Managed frontend development of AIS, an academic information system.
 - Taught academic scholarship students in Angular development.
 - Led the development of the frontend of a System for Certificate Emission for project secretaries.
-- Mentored 3 scholarship students within the project, who were hired in 2021 for intermediate positions by large research companies in Amazonas, confirming the success of the project's objectives.
+- Mentored 4 scholarship students within the project, who were hired in 2021 for intermediate positions by large research companies in Amazonas, confirming the success of the project's objectives.
 - **Skills:** _Angular, TypeScript, NodeJS, Docker, GCP, SCRUM._
 
 ## :rocket: Akiry Media,  Manaus, Brazil
